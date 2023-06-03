@@ -26,4 +26,6 @@ public class PipeMovement : MonoBehaviour
                 transform.position = new Vector3(prevPipe.transform.position.x + myPipeGenerator.dist, Random.Range(-1.75f, 2.5f));
         }
     }
+
+
 }

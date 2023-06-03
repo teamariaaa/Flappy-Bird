@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 501328504058718428}
   m_Layer: 0
   m_Name: PipeUp
-  m_TagString: Untagged
+  m_TagString: pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
